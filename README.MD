@@ -62,6 +62,12 @@ beautifulsoup4: A library for parsing HTML and XML
 ## Contributing
 Contributions to the PostImages Python Client are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request on the GitHub repository.
 
+ * Create Gallery: Implement a method to create a new gallery on PostImages.org.
+ * Delete Gallery: Develop a method to delete an existing gallery from PostImages.org.
+ * Delete Image: Add a method to delete a specific image from a gallery.
+ * Get Gallery Images: Implement a method to retrieve all images within a gallery.
+ * Download Image: Develop a method to download an image from PostImages.org.
+
 ## Author
 
 The PostImages Python Client is developed by [Ali Faleh](https://github.com/alifaleh).
