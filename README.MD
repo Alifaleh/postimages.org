@@ -74,3 +74,5 @@ The PostImages Python Client is developed by [Ali Faleh](https://github.com/alif
 
 ## License
 This project is licensed under the Apache License 2.0.
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alifaleh.postimages.org)
